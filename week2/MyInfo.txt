@@ -1,7 +1,12 @@
 Ethan Weitkamp
 <<<<<<< HEAD
 17540
+<<<<<<< HEAD
 =======
 17540
 Leola, PA
+>>>>>>> development
+=======
+Leola, PA
+USA
 >>>>>>> development
